@@ -1,0 +1,128 @@
+body{
+    background-image: url("tomato-2780424_1920.jpg");
+}
+
+#tab2 form{
+    text-align: left;
+    font-family: Georgia;
+}
+
+.tabs{
+    display: block;
+    text-align: center;
+
+}
+
+.width{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: right;
+    height: 10em;
+    display: block;
+
+
+}
+
+.width h1{
+    font-family: Georgia;
+    position: relative;
+    text-align: center;
+    line-height: 1.75em;
+    background-color: antiquewhite;
+    border: 4px solid black;
+    border-radius: 25px;
+    box-shadow: 1px 1px 10px grey;
+    min-width: 30%;
+    float: right;
+    margin-right: 2em;
+    margin-top: 1em;
+    height: 2em;
+}
+
+.width h2{
+    font-family: Georgia;
+    float: left;
+    position: relative;
+    text-align: center;
+    line-height: 1.75em;
+    background-color: antiquewhite;
+    border: 4px solid black;
+    border-radius: 25px;
+    box-shadow: 1px 1px 10px grey;
+    width: 50%;
+    margin-top: 1.5em;
+    margin-left: 2em;
+}
+
+form {
+    background-color: antiquewhite;
+    width: 70%;
+    margin: .5em auto;
+    padding: 2.5em;
+    height: 100%;
+    border: 4px solid black;
+    border-radius: 25px;
+    box-shadow: 1px 1px 10px grey;
+}
+
+.nav{
+    width: 100%;
+
+}
+li{
+    margin-top: 5em;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h3{
+    height: 1em;
+    font-family: Georgia;
+    margin: 0;
+}
+
+.meats .form-check:first-child{
+    margin-top: 1em;
+}
+
+.Veggies .form-check:first-child{
+    margin-top: 1em;
+}
+
+#orderDetails{
+    float: left;
+    margin-left: 15em;
+    border: 4px solid black;
+    padding: 2em;
+    text-align: left;
+    margin-top: 2em;
+    width: 25%;
+}
+
+#contactInfo{
+    float: right;
+    margin-right: 15em;
+    border: 4px solid black;
+    padding: 2em;
+    text-align: right;
+    margin-top: 2em;
+    width: 25%;
+}
+
+#orderDetails h4{
+    font-size: medium;
+    font-family: Georgia;
+    margin-top: 1.5em;
+}
+
+#contactInfo h4{
+    font-size: medium;
+    font-family: Georgia;
+    margin-top: 1.5em;
+}
+
+.form-check{
+    font-family: Georgia;
+}
