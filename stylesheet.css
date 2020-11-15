@@ -126,3 +126,9 @@ h3{
 .form-check{
     font-family: Georgia;
 }
+
+.next, .previous{
+    border: 2px solid black;
+    width: 150%;
+    background-color: darkred;
+}
